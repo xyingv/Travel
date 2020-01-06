@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-  @import '~styles/varible.styl';
+  @import '~styles/varible.styl'
   .header
     position: relative
     height: $headerHeight
