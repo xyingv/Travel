@@ -8,6 +8,7 @@ import 'styles/border.css'
 import 'styles/iconfont.css'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/dist/css/swiper.css'
+import 'babel-polyfill'
 
 Vue.use(VueAwesomeSwiper)
 Vue.config.productionTip = false
